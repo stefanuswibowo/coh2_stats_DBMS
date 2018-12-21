@@ -1,0 +1,19 @@
+﻿Name,DPS near,DPS mid,DPS far,Penet ration,AoE radius,AoE near,AoE far,Range max,Damage over time,Side,Type
+stuka flame bombs walking_stuka_napalm.xml,1.6,1.6,1.6,1.0/1.0/1.0,10,2.5,5,300,6,OB,FL_TH
+Fire Artillery Weapon fire_artillery_weapon_mp.xml,2.286,2.286,2.286,1.0/1.0/1.0,5,1.5,4,106,6,OS,FL_TH
+Granatwerfer 34 81mm Incendiary Mortar grw34_81mm_incendiary_mortar_halftrack_barrage_mp.xml,2.286,2.286,2.286,1.0/1.0/1.0,5,1.5,4,106,6,OS,FL_TH
+Granatwerfer 34 81mm Incendiary Mortar grw34_81mm_incendiary_mortar_barrage_mp.xml,2.162,2.162,2.162,2.5/2.5/2.5,5,1.5,4,106,6,OS,FL_TH
+Halftrack Flamethrower Right halftrack_flammenwerfer_right_mp.xml,4.286,4.286,4.286,2.5/2.5/2.5,4,1,2,25,0,OS,FL_TH
+Halftrack Flammenwerfer halftrack_flammenwerfer_mp.xml,4.286,4.286,4.286,2.5/2.5/2.5,4,1,2,25,0,OS,FL_TH
+Halftrack Flammenwerfer halftrack_flammenwerfer_fake_mp.xml,0,0,0,0.0/0.0/0.0,0,1,2,25,0,OS,FL_TH
+Incendiary Mortar DoT halftrack_mortar_incendiary_dot_mp.xml,1.092,1.092,1.092,2.5/2.5/2.5,4,1,2,70,0,OS,FL_TH
+Pioneer Flamethrower pioneer_flamethrower_mp.xml,3.358,3.358,3.358,2.5/2.5/2.5,4,1,2,20,0,OS,FL_TH
+Pioneer Flamethrower urban_assault_flamethrower_mp.xml,13,13,13,2.5/2.5/2.5,4,1,2,20,0,OS,FL_TH
+Pioneer Flamethrower pioneer_flamethrower_ability_mp.xml,64,64,64,2.5/2.5/2.5,4,1,2,20,0,OS,FL_TH
+Pioneer Flamethrower flare_ground_hit_mp.xml,6.531,6.531,6.531,0.0/0.0/0.0,1,1,2,20,0,OS,FL_TH
+ATO-41 Flame Thrower kv8_ato-41_flamethrower_mp.xml,8.889,8.889,8.889,2.5/2.5/2.5,4,1,2,25,0,SO,FL_TH
+Incendiary Mortar DoT molotov_cocktail_dotdamage_mp.xml,0.819,0.819,0.819,2.5/2.5/2.5,4,1,2.25,70,0,SO,FL_TH
+Molotov Cocktail molotov_cocktail_weapon_mp.xml,2.667,2.667,2.667,2.5/2.5/2.5,4,1,2.25,15,1,SO,FL_TH
+ROKS-3 Flamethrower roks2_backpack_flamethrower_mp.xml,3.154,3.154,3.154,2.5/2.5/2.5,4,1,2,20,0,SO,FL_TH
+ROKS-3 Flamethrower flamethrower_roks3_mp.xml,3.154,3.154,3.154,2.5/2.5/2.5,4,1,2,20,0,SO,FL_TH
+Pioneer Flamethrower assault_engineer_flamethrower.xml,3.358,3.358,3.358,2.5/2.5/2.5,4,1,2,20,0,US,FL_TH

@@ -1,0 +1,176 @@
+Name,DPS near,DPS mid,DPS far,Pene tration,Range max,Range far,Range near,Side,Type
+Browning 50cal Rear jagdtiger_mg42_rear_upgrade_mp.xml,16.804,10.82,2.296,3.0/3.0/3.0,35,-1,10,OB,SM_AR
+Fg42 fallschirmjager_gewehr_42_mp.xml,12.632,8.733,5.538,1.2/1.1/1.0,35,35,8,OB,SM_AR
+Flak 43 37mm AA gun (Base Building) base_building_flak_20mm_flak38.xml,6.134,4.601,3.067,45.0/45.0/45.0,45,-1,-1,OB,SM_AR
+G43 Panzerfusilier panzerfusilier_g43.xml,9.418,3.879,1.993,1.0/1.0/1.0,35,35,6,OB,SM_AR
+Kar-98k Rifle panzerfusilier_kar_98k_rifle_mp.xml,3.763,2.375,1.847,1.0/1.0/1.0,35,35,0,OB,SM_AR
+Kar-98k Rifle (Honor Guard) waffen_wlite_kar_98k_rifle_mp.xml,7.841,4.868,3.805,1.0/1.0/1.0,35,35,0,OB,SM_AR
+Kar-98k Rifle (MG34) mg34_kar_98k_rifle_mp.xml,2.367,1.158,0.816,1.0/1.0/1.0,35,35,0,OB,SM_AR
+Kar-98k Rifle (Volks) volksgrenadier_kar_98k_rifle_mp.xml,3.951,2.023,1.506,1.0/1.0/1.0,35,35,0,OB,SM_AR
+kwk 38 20mm gun AC (Flak Emplacement) flak_emplacement_20mm.xml,0.728,0.546,0.437,35.0/25.0/20.0,40,40,10,OB,SM_AR
+kwk 38 20mm gun AC (Flak Emplacement Base) flak_emplacement_base_20mm.xml,0.728,0.546,0.437,35.0/25.0/20.0,40,40,10,OB,SM_AR
+Luger P08 9mm Pistol officer_luger_p08_9mm_pistol_mp.xml,4.004,2.627,1.027,1.0/1.0/1.0,35,-1,10,OB,SM_AR
+MG34 Coaxial kubelwagen_mg34_pintle_mp.xml,11.644,9.424,7.023,1.9/1.6/1.3,40,40,5,OB,SM_AR
+MG34 Coaxial (Luchs) luchs_mg34_mounted_mp.xml,8.291,6.849,5.422,1.0/1.0/1.0,35,35,10,OB,SM_AR
+MG34 HMG hmg_team_mg34_mp.xml,10.098,5.669,0.992,1.9/1.6/1.3,45,-1,10,OB,SM_AR
+MG34 LMG [Generic] obersoldaten_mg34_lmg_generic_mp.xml,11.561,16.802,16.833,1.2/1.1/1.0,35,35,0,OB,SM_AR
+MG34 LMG (Moving) obersoldaten_mg34_lmg_moving_mp.xml,11.561,16.802,16.833,1.2/1.1/1.0,35,35,0,OB,SM_AR
+MG34 LMG [Obersoldaten] (No Prone) obersoldaten_mg34_lmg_moving_no_prone_mp.xml,9.98,14.492,14.518,1.2/1.1/1.0,35,35,0,OB,SM_AR
+MG34 LMG - Suppression [Waffen] lmg_setup_mg42_wg_mp.xml,41.396,24.27,10.456,3.0/2.0/1.0,45,45,7,OB,SM_AR
+MG42 Coaxial generic_mg34_coaxial_mp.xml,8.091,6.655,5.294,1.0/1.0/1.0,35,35,10,OB,SM_AR
+MG42 Front sdkfz_251_mg42_mp.xml,6.849,4.61,2.021,1.0/1.0/1.0,35,-1,10,OB,SM_AR
+MG42 Front sdkfz_250_mg34_mp.xml,6.849,4.61,2.021,1.0/1.0/1.0,35,-1,10,OB,SM_AR
+MG42 Front (Puma) sdkfz_234_mg42_mp.xml,11.011,9.562,8.309,1.0/1.0/1.0,35,35,10,OB,SM_AR
+MG42 Heavy Machine Gun hmg_team_mg42_wg_mp.xml,26.692,15.703,3.41,3.0/2.0/1.0,45,-1,10,OB,SM_AR
+MG42 Hull mg42_hull_mounted_sturmtiger_mp.xml,8.528,6.494,5.045,1.0/1.0/1.0,35,35,10,OB,SM_AR
+MG42 Hull jagdtiger_mg34_hull_mp.xml,8.291,6.849,5.422,1.0/1.0/1.0,35,35,10,OB,SM_AR
+MG42 Hull generic_mg34_hull_mp.xml,8.291,6.849,5.422,1.0/1.0/1.0,35,35,10,OB,SM_AR
+MG42 Rear jagdtiger_mg42_rear_mp.xml,6.849,4.61,2.021,1.0/1.0/1.0,35,-1,10,OB,SM_AR
+MG42 Rear sdkfz_251_mg42_rear_mp.xml,6.849,4.61,2.021,1.0/1.0/1.0,35,-1,10,OB,SM_AR
+MG42 Top (King Tiger) mg42_turret_mounted_king_tiger_mp.xml,13.965,8.698,4.577,3.0/2.0/1.5,35,35,5,OB,SM_AR
+MG42 Top (West German Panther) mg42_turret_mounted_panther_wg_mp.xml,12.755,8.046,3.503,2.2/1.8/1.4,35,35,0,OB,SM_AR
+MG42 Turret [Jagdpanzer IV] mg42_turret_mounted_jagdpanzer_iv_mp.xml,8.528,6.494,5.045,1.0/1.0/1.0,35,35,10,OB,SM_AR
+MP40 Sub Machine Gun (Assault Pioneers) pioneer_mp40_smg_mp.xml,13.749,2.455,0.369,1.0/1.0/1.0,35,30,9,OB,SM_AR
+MP40 Sub Machine Gun Pioneer weapon_crew_mp40_smg_mp.xml,2.972,1.912,0.314,1.0/1.0/1.0,30,-1,10,OB,SM_AR
+MP44 Sub Machine Gun waffen_elite_grenadier_mp44_vampir_smg_mp.xml,11.429,7.447,1.775,1.0/1.0/1.0,30,-1,10,OB,SM_AR
+MP44 Sub Machine Gun waffen_elite_grenadier_mp44_smg_mp.xml,18.587,11.657,1.775,1.0/1.0/1.0,30,-1,10,OB,SM_AR
+MP44 Sub Machine Gun waffen_mp44_infrared.xml,22.556,10.91,3.69,1.0/1.0/1.0,35,35,8,OB,SM_AR
+MP44 Sub Machine Gun assault_pioneer_mp44_smg_mp.xml,16.418,7.641,1.215,1.0/1.0/1.0,35,28,3,OB,SM_AR
+MP44 Sub Machine Gun panzerfusilier_mp44.xml,13.277,8.549,1.775,1.0/1.0/1.0,30,-1,10,OB,SM_AR
+G43 sniper g43_sniper_sniper_mp.xml,0,0,0,1.0/1.0/1.0,50,-1,10,OS,SM_AR
+G43 sniper jaeger_g43_rifle_mp.xml,10.763,4.434,2.277,1.0/1.0/1.0,35,35,6,OS,SM_AR
+G43 sniper stormtrooper_g43.xml,11.052,4.773,2.512,1.0/1.0/1.0,35,35,6,OS,SM_AR
+G43 sniper incendiary g43_sniper_incendiary_explosive_mp.xml,1.559,1.351,1.105,2.5/2.5/2.5,50,-1,10,OS,SM_AR
+G43 sniper incendiary g43_sniper_incendiary_mp.xml,0,0,0,5.0/5.0/5.0,50,-1,10,OS,SM_AR
+G43 sniper (Panzer Grenadier) jaeger_panzergren_g43_rifle_mp.xml,13.263,5.728,3.015,1.0/1.0/1.0,35,35,6,OS,SM_AR
+Kar-98k Rifle ostruppen_kar_98k_rifle_mp.xml,2.42,1.358,1.067,1.0/1.0/1.0,35,35,0,OS,SM_AR
+Kar-98k Rifle grenadier_kar_98k_rifle_mp.xml,5.988,3.001,2.263,1.0/1.0/1.0,35,35,0,OS,SM_AR
+Kar-98k Rifle repair_pioneer_kar_98k_rifle_mp.xml,0.236,0.157,0.064,1.0/1.0/1.0,35,-1,10,OS,SM_AR
+kwk 38 20mm gun AC sdkfz_222_kwk38_20mm__mp.xml,1.335,0.763,0.318,35.0/35.0/35.0,40,40,0,OS,SM_AR
+Luger P08 9mm Pistol luger_p08_9mm_pistol_mp.xml,7.442,1.042,0.292,1.0/1.0/1.0,35,35,2,OS,SM_AR
+Luger P08 9mm Pistol luger_p08_victor_target_flare_pistol_mp.xml,0,0,0,1.0/1.0/1.0,50,-1,-1,OS,SM_AR
+MG42 Coaxial scout_car_mg34_pintle_generic_mp.xml,19.77,15.128,6.535,1.0/1.0/1.0,35,-1,10,OS,SM_AR
+MG42 Coaxial mg34_coaxial_generic_mp.xml,6.456,3.619,2.048,1.0/1.0/1.0,35,35,10,OS,SM_AR
+MG42 Coaxial puma_mg42_mp.xml,11.011,9.562,8.309,1.0/1.0/1.0,35,35,10,OS,SM_AR
+MG42 Coaxial scout_car_mg34_coaxial_generic_mp.xml,19.77,15.128,6.535,1.0/1.0/1.0,35,-1,10,OS,SM_AR
+MG42 Coaxial mg34_coaxial_generic_tigerace_mp.xml,12.827,9.029,4.069,1.0/1.0/1.0,35,-1,10,OS,SM_AR
+MG42 Front halftrack_mg42_vehicle_mp.xml,18.787,9.274,4.737,1.0/1.0/1.0,35,35,5,OS,SM_AR
+MG42 Front mg42_turret_mounted_panzerwerfer_mp.xml,15.394,9.726,4.306,2.2/1.8/1.4,35,35,0,OS,SM_AR
+MG42 Front mg42_turret_mounted_stugiv_mp.xml,15.394,9.726,4.306,2.2/1.8/1.4,35,35,0,OS,SM_AR
+MG42 Heavy Machine Gun bunker_mg42_mp.xml,21.28,12.521,2.486,2.2/1.8/1.4,45,-1,10,OS,SM_AR
+MG42 Heavy Machine Gun hmg_team_mg42_mp.xml,27.72,17.939,6.704,2.2/1.8/1.4,45,-1,10,OS,SM_AR
+MG42 Heavy Machine Gun Dummy base_building_dummy_weapon_mp.xml,8.199,3.64,0.705,1.0/1.0/1.0,35,-1,-1,OS,SM_AR
+MG42 Heavy Machine Gun Dummy trench_dummy_weapon_mp.xml,8.199,3.64,0.705,1.0/1.0/1.0,1,-1,-1,OS,SM_AR
+MG42 Heavy Machine Gun Dummy mgnest_mg42t_dummy_mp.xml,8.199,4.982,1.058,1.0/1.0/1.0,45,-1,10,OS,SM_AR
+MG42 Hull mg34_hull_mp.xml,14.019,9.225,3.761,1.0/1.0/1.0,35,-1,10,OS,SM_AR
+MG42 LMG grenadier_mg42lmg_mp.xml,6.517,9.43,9.407,1.2/1.1/1.0,35,35,0,OS,SM_AR
+MG42 LMG (Moving Fire) grenadier_mg42lmg_moving_mp.xml,5.667,8.191,8.169,1.2/1.1/1.0,35,35,0,OS,SM_AR
+MG42 LMG (Moving Fire) (No Prone) grenadier_mg42lmg_moving_no_prone_mp.xml,5.667,8.191,8.169,1.2/1.1/1.0,35,35,0,OS,SM_AR
+MG42 Rear _halftrack_mg42_vehicle_rear_mp.xml,18.787,9.274,4.737,1.0/1.0/1.0,35,35,5,OS,SM_AR
+MG42 Top mg42_turret_mounted_panther_mp.xml,12.755,8.046,3.503,2.2/1.8/1.4,35,35,0,OS,SM_AR
+MG42 Top mg42_turret_mounted_pziv_mp.xml,15.394,9.726,4.306,2.2/1.8/1.4,35,35,0,OS,SM_AR
+MG42 Top mg42_turret_mounted_brummbar_mp.xml,15.394,9.726,4.306,2.2/1.8/1.4,35,35,0,OS,SM_AR
+MP40 Sub Machine Gun (Assault Pioneers) eg_pioneer_mp40_smg_mp.xml,6.155,1.807,0.38,1.0/1.0/1.0,35,30,8,OS,SM_AR
+MP40 Sub Machine Gun Pioneer panzer_grenadier_mp40_smg_mp.xml,2.843,1.905,0.359,1.0/1.0/1.0,30,-1,10,OS,SM_AR
+MP40 Sub Machine Gun Pioneer urban_panzer_grenadier_mp40_smg_mp.xml,4.212,4.212,0.532,1.0/1.0/1.0,20,-1,10,OS,SM_AR
+MP40 Sub Machine Gun Pioneer weapon_crew_&_pioneer_mp40_smg_mp.xml,3.336,0.987,0.121,1.0/1.0/1.0,35,30,10,OS,SM_AR
+MP40 Sub Machine Gun Pioneer assault_grenadier_mp40.xml,10.187,1.896,0.327,1.0/1.0/1.0,35,30,10,OS,SM_AR
+MP44 Sub Machine Gun sturm_pioneer_mp44_smg_mp.xml,15.334,6.795,1.206,1.0/1.0/1.0,35,35,8,OS,SM_AR
+MP44 Sub Machine Gun panzer_grenadier_mp44_smg_mp.xml,15.863,8.154,1.448,1.0/1.0/1.0,35,35,5,OS,SM_AR
+Bunker DShK bunker_starting_position_dshk_mp.xml,10.535,5.953,1.228,2.0/2.0/2.0,45,-1,10,SO,SM_AR
+Coaxial Turret Vehicle Gun is2_coaxial_vehicle_turret_mp.xml,6.005,4.325,2.293,1.0/1.0/1.0,35,-1,10,SO,SM_AR
+Coaxial Turret Vehicle Gun sherman_hull_gun_mp.xml,5.925,3.277,2.044,1.0/1.0/1.0,35,35,10,SO,SM_AR
+Coaxial Turret Vehicle Gun coaxial_vehicle_turret_mp.xml,6.005,4.325,2.293,1.0/1.0/1.0,35,-1,10,SO,SM_AR
+Coaxial Turret Vehicle Gun t34_76_85_coaxial_vehicle_turret_greent34_mp.xml,1.501,1.081,0.573,1.0/1.0/1.0,35,-1,10,SO,SM_AR
+Coaxial Turret Vehicle Gun sherman_coaxil_turret_mp.xml,5.925,3.277,2.044,1.0/1.0/1.0,35,35,10,SO,SM_AR
+Coaxial Turret Vehicle Gun t34_76_85_coaxial_vehicle_turret_mp.xml,6.005,4.325,2.293,1.0/1.0/1.0,35,-1,10,SO,SM_AR
+Colt M1911 45 Pistol isakovich_colt_m1911_45_pistol_l_mp.xml,3.413,2.668,0.624,1.0/1.0/1.0,25,-1,10,SO,SM_AR
+Colt M1911 45 Pistol weapon_crew_colt_m1911_45_pistol_mp.xml,0.882,0.592,0.12,1.0/1.0/1.0,30,-1,10,SO,SM_AR
+Colt M1911 45 Pistol isakovich_colt_m1911_45_pistol_mp.xml,3.413,2.668,0.624,1.0/1.0/1.0,25,-1,10,SO,SM_AR
+Colt M1911 45 Pistol isakovich_colt_m1911_45_pistol_r_mp.xml,3.413,2.668,0.624,1.0/1.0/1.0,25,-1,10,SO,SM_AR
+DP-28 Light Machine Gun guard_troop_dp-28_light_machine_gun_mp.xml,4.205,6.361,6.548,1.1/1.05/1.0,35,35,0,SO,SM_AR
+DP-28 Light Machine Gun partisan_dp-28_light_machine_gun_mp.xml,2.484,3.316,2.8,1.1/1.05/1.0,35,35,0,SO,SM_AR
+DP-28 Light Machine Gun (Moving Fire) guard_troop_dp-28_light_machine_gun_moving_mp.xml,3.656,5.526,5.688,1.1/1.05/1.0,35,35,0,SO,SM_AR
+DP-28 Light Machine Gun (Moving Fire) (No Prone) guard_troop_dp-28_light_machine_gun_moving_no_prone_mp.xml,3.656,5.526,5.688,1.1/1.05/1.0,35,35,0,SO,SM_AR
+DShK 38 Top dshk_38_pintle_mounted_tank_mp.xml,36.419,20.298,11.361,4.0/3.0/2.0,35,35,0,SO,SM_AR
+DShK Sokolov dshk_38_sokolov_mp.xml,32.418,20.218,8.254,4.5/3.0/1.5,45,-1,10,SO,SM_AR
+DT Light Machine Gun t-70m_coaxial_vehicle_mp.xml,4.08,2.592,0.556,1.0/1.0/1.0,35,-1,10,SO,SM_AR
+DT Light Machine Gun Hull t34_76_85_coaxial_vehicle_hull_mp.xml,8.777,6.04,3.066,1.0/1.0/1.0,35,-1,10,SO,SM_AR
+DT Light Machine Gun Hull coaxial_vehicle_hull_mp.xml,5.925,3.277,2.044,1.0/1.0/1.0,35,35,10,SO,SM_AR
+DT Light Machine Gun Hull t34_76_85_coaxial_vehicle_hull_greent34_mp.xml,2.194,1.51,0.767,1.0/1.0/1.0,35,-1,10,SO,SM_AR
+DT LMG Turret Rear coaxial_vehicle_turret_rear_mp.xml,6.005,4.325,2.293,1.0/1.0/1.0,35,-1,10,SO,SM_AR
+Dummy weapon (to support attack move behaviour) dummy_weapon_mp.xml,0,0,0,1.0/1.0/1.0,35,-1,-1,SO,SM_AR
+Kar-98k Rifle partisan_kar_98k_rifle_mp.xml,1.939,1.179,0.78,1.0/1.0/1.0,35,35,0,SO,SM_AR
+M1910 Maxim maxim_m1910_hmg_mp.xml,24.665,17.493,6.106,1.6/1.4/1.2,45,-1,10,SO,SM_AR
+M1919 .30 cal front m3a1_scout_car_30cal_browning_m1919__machine_gun_mp.xml,18.763,14.501,6.777,1.0/1.0/1.0,35,-1,10,SO,SM_AR
+M1919A4 Rear m3a1_scout_car_30cal_browning_m1919__machine_gun_rear_mp.xml,19.02,14.754,6.951,1.6/1.4/1.2,35,-1,10,SO,SM_AR
+M2 .50 Machine Gun m5_halftrack_m2hb_hmg_mp.xml,20.37,15.088,7.413,1.75/1.5/1.25,35,-1,10,SO,SM_AR
+M2 .50 Machine Gun Front m3a1_scout_car_m2hb_hmg_mp.xml,18.891,12.826,4.029,1.5/1.3/1.25,35,-1,10,SO,SM_AR
+Maxim base defense bunker_starting_position_maxim_mp.xml,10.535,5.953,1.228,1.0/1.0/1.0,45,-1,10,SO,SM_AR
+MG42 LMG partisan_mg42lmg_mp.xml,4.769,4.61,5.273,1.2/1.1/1.0,35,35,0,SO,SM_AR
+Mosin Nagant Conscript mosin_nagant_rifle_conscript_mp.xml,3.441,1.751,0.845,1.0/1.0/1.0,35,35,0,SO,SM_AR
+Mosin Nagant Conscript mosin_nagant_rifle_combat_engineer_mp.xml,3.294,1.589,0.845,1.0/1.0/1.0,35,35,4,SO,SM_AR
+Mosin Nagant Conscript mosin_nagant_rifle_weapon_crew_mp.xml,1.272,0.46,0.278,1.0/1.0/1.0,35,35,4,SO,SM_AR
+Mosin Nagant Conscript mosin_nagant_rifle_sniper_mp.xml,1.315,0.808,0.289,0.0/0.0/0.0,35,-1,10,SO,SM_AR
+Mosin Nagant Guards partisan_troops_mosin_nagant_rifle_mp.xml,2.544,1.168,0.532,1.0/1.0/1.0,35,35,4,SO,SM_AR
+Mosin Nagant Guards guards_troops_mosin_nagant_rifle_mp.xml,4.734,2.569,1.423,1.0/1.0/1.0,35,35,4,SO,SM_AR
+Mosin Nagant Guards shock_troops_mosin_nagant_rifle_mp.xml,2.767,1.816,0.698,1.0/1.0/1.0,35,-1,10,SO,SM_AR
+Mosin Nagant Sniper Rifle mosin_nagant_sniper_rifle_mp.xml,0,0,0,1.0/1.0/1.0,50,-1,10,SO,SM_AR
+Mosin Nagant Sniper Rifle mosin_nagant_suppressive_volley_mp.xml,0,0,0,0.0/0.0/0.0,50,-1,10,SO,SM_AR
+Nagant Revolver nagant_m1895_revolver_mp.xml,0.254,0.216,0.054,1.0/1.0/1.0,25,-1,10,SO,SM_AR
+PPSh 41 SMG shock troops_ppsh-41_sub_machine_gun_mp.xml,14.218,1.104,0.119,1.0/1.0/1.0,35,30,10,SO,SM_AR
+PPSh 41 SMG partisan_ppsh-41_sub_machine_gun_mp.xml,7.817,0.958,0.13,1.0/1.0/1.0,35,30,10,SO,SM_AR
+PPSh 41 SMG conscript_ppsh-41_sub_machine_gun_mp.xml,9.026,0.92,0.114,1.0/1.0/1.0,35,30,10,SO,SM_AR
+PPSh 41 SMG guard_troops_ppsh-41_sub_machine_gun_mp.xml,13.626,1.06,0.114,1.0/1.0/1.0,35,30,10,SO,SM_AR
+Quad 50 cal m5_halftrack_quad_50_cal_m2hb_mp.xml,68.83,42.605,11.132,2.5/2.0/1.5,45,-1,10,SO,SM_AR
+SVT penal_troops_svt_rifle_mp.xml,6.208,2.166,0.778,1.0/1.0/1.0,35,35,6,SO,SM_AR
+SVT partisan_svt_rifle_mp.xml,4.498,1.589,0.743,1.0/1.0/1.0,35,35,6,SO,SM_AR
+30cal mounted on WC51 m5_stuart_top_mounted_30cal_mp.xml,10.899,6.179,2.957,1.1/1.05/1.0,35,35,0,US,SM_AR
+30cal mounted on WC51 dodge_wc51_m1917_30cal_mp.xml,22.395,15.676,5.007,3.0/3.0/3.0,45,-1,10,US,SM_AR
+.50cal Fighting Position Dummy fighting_position_mg_dummy_mp.xml,0,0,0,1.0/1.0/1.0,45,45,10,US,SM_AR
+50cal HMG (M15A1 AA Half-track - Left) m15a1_aa_half_track_50cal_left_mp.xml,19.539,7.956,1.867,2.5/2.0/1.5,45,-1,-1,US,SM_AR
+50cal HMG (M15A1 AA Half-track - Right) m15a1_aa_half_track_50cal_right_mp.xml,19.539,7.956,1.867,2.5/2.0/1.5,45,-1,-1,US,SM_AR
+50cal HMG (Sherman / M36 / M10) sherman_m10_m36_m2hb_50cal_mounted_tank_mp.xml,14.175,9.621,3.661,4.0/3.0/2.0,35,-1,10,US,SM_AR
+50 cal mounted on the top (M20 Scout Car) m20_utility_car_m2hb_50cal_mounted_mp.xml,22.406,10.278,3.062,3.0/2.0/1.0,40,40,0,US,SM_AR
+50 cal mounted on the top (M7 Priest) m7b1_priest_m2hb_50cal_mounted_mp.xml,11.203,7.213,1.531,1.0/1.0/1.0,35,-1,10,US,SM_AR
+50 cal mounted on the top (M8 Greyhound) m8_greyhound_m2hb_50cal_mounted_mp.xml,22.406,10.278,3.062,3.0/2.0/1.0,40,40,0,US,SM_AR
+50 cal mounted on the top (WC51) dodge_wc51_m2hb_50cal_mp.xml,11.576,5.41,2.775,3.0/2.0/1.0,40,40,0,US,SM_AR
+.50 cal P-47 p47_50cal_machineguns.xml,48.649,48.649,48.649,42.5/42.5/42.5,225,-1,-1,US,SM_AR
+AA Mode (Left) m15a1_aa_half_track_50cal_left_special_aa_mp.xml,21.181,9.162,1.964,2.5/2.0/1.5,45,-1,-1,US,SM_AR
+AA Mode Weapon m15a1_aa_half_track_50cal_right_special_aa_mp.xml,21.181,9.162,1.964,2.5/2.0/1.5,45,-1,-1,US,SM_AR
+Coaxial MG sherman_m4a3_coaxial_vehicle_turret_mp.xml,7.775,5.158,3.455,1.0/1.0/1.0,35,35,10,US,SM_AR
+Coaxial MG m8_greyhound_coaxial_vehicle_turret_mp.xml,7.775,5.158,3.455,1.0/1.0/1.0,35,35,10,US,SM_AR
+Coaxial Turret 105 Vehicle Gun sherman_m4a3_coaxial_vehicle_turret105_mp.xml,7.775,5.158,3.455,1.0/1.0/1.0,35,35,10,US,SM_AR
+Dummy Beacon Weapon? dummy_airborne_beacon_mp.xml,0,0,0,0.0/0.0/0.0,35,-1,10,US,SM_AR
+Fighting Position Machine Gun (Real) fighting_position_mg_mp.xml,21.28,12.521,2.486,1.0/1.0/1.0,45,-1,10,US,SM_AR
+Hull MG sherman_m4a3_vehicle_hull_mp.xml,5.792,4.687,3.158,1.0/1.0/1.0,35,35,10,US,SM_AR
+M1918 Browning Automatic Rifle riflemen_bar_30_06_light_machine_gun_mp.xml,13.978,8.206,4.379,1.2/1.1/1.0,35,35,5,US,SM_AR
+M1919 .30 cal coaxial m5a1_stuart_m1919a4_30_cal_coaxial_mp.xml,7.226,5.703,3.937,1.0/1.0/1.0,35,35,10,US,SM_AR
+M1919 .30 cal coaxial [Greyhound] m8_greyhound_m1919a4_30cal_coaxial_mp.xml,8.431,6.97,5.511,1.0/1.0/1.0,35,35,10,US,SM_AR
+M1919 .30 cal front m5a1_stuart_m1919a4_30_cal_hull_mp.xml,7.226,5.703,3.937,1.0/1.0/1.0,35,35,10,US,SM_AR
+M1919 .30 cal front m5a1_stuart_m1919a4_30_cal_mounted_mp.xml,6.022,4.436,3.937,1.0/1.0/1.0,35,35,10,US,SM_AR
+M1919A6 LMG riflemen_30cal_lmg_mp.xml,6.138,8.911,9.169,1.2/1.1/1.0,35,35,0,US,SM_AR
+M1919A6 LMG (No Prone) paratrooper_m1919a6_lmg_moving_no_prone_mp.xml,5.741,8.055,8.18,1.2/1.1/1.0,35,35,0,US,SM_AR
+M1919A6 LMG (Paratrooper) paratrooper_m1919a6_lmg_moving_mp.xml,6.607,9.254,9.407,1.2/1.1/1.0,35,35,0,US,SM_AR
+M1-A1 Carbine (Paratrooper) m1a1_carbine_paratrooper_mp.xml,9.99,2.902,1.83,1.0/1.0/1.0,35,35,4,US,SM_AR
+M1-A1 Carbine (Paratrooper) m1a1_carbine_rifleman_spec_mp.xml,9.99,2.902,1.83,1.0/1.0/1.0,35,35,4,US,SM_AR
+M1-A1 Carbine (Pathfinder) pathfinder_m1garand_scope_mp.xml,1.823,2.708,3.909,1.0/1.0/1.0,35,35,0,US,SM_AR
+M1 Carbine (Rear Echelon) m1_carbine_rear_echelon_mp.xml,4.001,1.291,0.836,1.0/1.0/1.0,35,35,4,US,SM_AR
+M1 Carbine (Rear Echelon) m1_carbine_rear_echelon_volley_mp.xml,4.001,1.291,0.836,1.0/1.0/1.0,35,35,4,US,SM_AR
+M1 Garand (Mortar Crew) m1_garand_rifle_mortar_crew_mp.xml,2.54,1.669,0.642,1.0/1.0/1.0,35,-1,10,US,SM_AR
+M1 Garand (Rifleman) m1_garand_rifle_rear_echelon_mp.xml,6.429,1.401,0.646,1.0/1.0/1.0,35,35,4,US,SM_AR
+M1 Garand (Rifleman) m1_garand_rifle_rifleman_mp.xml,6.763,3.261,1.675,1.0/1.0/1.0,35,35,3,US,SM_AR
+M2 .50 Machine Gun m3_halftrack_m2hb_50cal_mp.xml,16.132,7.573,3.98,3.0/2.0/1.0,40,40,0,US,SM_AR
+M2 Browning .50 Caliber Machine Gun m2hb_50cal_mp.xml,26.817,15.584,6.022,3.0/2.0/1.0,45,45,10,US,SM_AR
+M2 Browning .50 Caliber Machine Gun (Base Defenses) aef_base_m2hb_50cal_mp.xml,26.817,15.584,6.022,3.0/2.0/1.5,45,45,10,US,SM_AR
+M2 Browning .50 Caliber Machine Gun (Fast Setup) m2hb_50cal_fast_setup_mp.xml,33.521,19.48,7.528,3.0/2.0/1.5,45,45,10,US,SM_AR
+M2 Browning .50cal Machine Gun (Fighting Position) m2hb_50cal_fighting_position_mp.xml,26.817,15.584,6.022,3.0/2.0/1.5,45,45,10,US,SM_AR
+M3 Grease Gun (Assault Engineers) engineer_m3_grease_gun_mp.xml,13.754,1.599,0.213,1.0/1.0/1.0,35,30,10,US,SM_AR
+M3 Grease Gun (Vehicle Crew) m3_grease_gun_vehicle_crew_mp.xml,4.758,0.519,0.034,1.0/1.0/1.0,35,30,10,US,SM_AR
+Nagant Revolver m1911_45cal_pistol_mp.xml,6.257,1.646,0.631,1.0/1.0/1.0,35,30,10,US,SM_AR
+Nagant Revolver medic_m1911_45cal_pistol_mp.xml,4.905,0.943,0.359,1.0/1.0/1.0,35,30,10,US,SM_AR
+Springfield Sniper Rifle springfield_sniper_rifle_mp.xml,6.13,4.491,3.107,1.0/1.0/1.0,50,-1,10,US,SM_AR
+Thompson SMG (Captain) captain_m1_thompson_mp.xml,14.788,2.878,0.635,1.0/1.0/1.0,35,30,10,US,SM_AR
+Thompson SMG (Paratrooper) ranger_m1_thompson_mp.xml,18.72,2.866,0.506,1.0/1.0/1.0,35,30,10,US,SM_AR
+Thompson SMG (Paratrooper) paratrooper_m1_thompson_mp.xml,18.72,2.866,0.506,1.0/1.0/1.0,35,30,10,US,SM_AR
+US 30cal HMG m1919a4_30cal_mp.xml,24.665,17.493,6.106,2.4/1.8/1.2,45,-1,10,US,SM_AR

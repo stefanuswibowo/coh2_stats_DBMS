@@ -1,0 +1,169 @@
+Name,Damage,DPS,Damage near,Damage far,AoE radius,AoE near,AoE far,Penet ration,Range max,Side,Type
+Blendkorper 2H blendkorper_2h_smoke_grenade_mp.xml,1,0.8,1,0.25,4,1,3,2.5/2.5/2.5,15,OB,EX_WE
+Blendkorper 2H [DOT] blendkorper_2h_smoke_grenade_dot_mp.xml,0,0,1,0.15,0,1,2,0.0/0.0/0.0,70,OB,EX_WE
+Bundled StielGranate waffen_bundled_assault_stielgranate.xml,80,64,1,0.25,5,1.25,3.75,25.0/25.0/25.0,20,OB,EX_WE
+Granatwerfer 34 81mm Mortar grw34_81mm_mortar_wg_mp.xml,80,8.767,1,0.05,4,1,3,35.0/35.0/35.0,80,OB,EX_WE
+Granatwerfer 34 81mm Mortar grw34_81mm_victor_target_mortar_wg_mp.xml,80,9.275,1,0.05,4,1,3,35.0/35.0/35.0,160,OB,EX_WE
+Granatwerfer 34 81mm Mortar grw34_81mm_mortar_barrage_wg_mp.xml,80,18.824,1,0.05,4,1,3,35.0/35.0/35.0,106,OB,EX_WE
+Granatwerfer 34 81mm Mortar Counter Barrage grw34_81mm_mortar_counter_barrage_wg_mp.xml,80,18.824,1,0.05,4,1,3,35.0/35.0/35.0,80,OB,EX_WE
+Granatwerfer 34 81mm Mortar (Smoke) grw34_81mm_mortar_team_smoke_wg_mp.xml,0,0,1,0.05,0,1,3,35.0/35.0/35.0,106,OB,EX_WE
+Heavy Mine [Sturmpioneers] assault_pioneers_heavy_mine_mp.xml,400,246.154,1,1,5,1.5,2.5,1000.0/1000.0/1000.0,35,OB,EX_WE
+Ig.18 7.5cm infantry gun Barrage Weapon le_ig_18_howitzer_75mm_barrage_mp.xml,80,15.764,1,0.05,4,1,3,75.0/75.0/75.0,100,OB,EX_WE
+Ig.18 7.5cm infantry gun Barrage Weapon (Hollow) le_ig_18_howitzer_75mm_hollow_charge_barrage_mp.xml,80,15.764,1,0.05,4,1,3,200.0/200.0/200.0,100,OB,EX_WE
+IG 18 7.5cm Infantry Support Gun (ISG) le_ig_18_howitzer_75mm_mp.xml,80,8.964,1,0.05,4,1,3,75.0/75.0/75.0,100,OB,EX_WE
+Kar 98k Antitank Rifle Grenade (Panzerfusilier) panzerfusilier_at_rifle_grenade.xml,40,40,1,0.15,1,0.25,0.75,100.0/100.0/100.0,30,OB,EX_WE
+Mine Weapon schu_mine_mp.xml,200,123.077,1,1,5,1.5,2.5,1000.0/1000.0/1000.0,35,OB,EX_WE
+MK II stielgranate_grenade_mp.xml,80,64,1,0.15,3.5,0.875,2.625,25.0/25.0/25.0,20,OB,EX_WE
+MK II eihandgranate_grenade_mp.xml,20,16,1,0.15,3.5,0.875,2.625,25.0/25.0/25.0,20,OB,EX_WE
+NahVW Close Range Grenades sturmtiger_nahvw_close_range_grenades.xml,80,320,1,0.05,5,1.25,3.75,35.0/35.0/35.0,15,OB,EX_WE
+Panzerfusilier Flare panzerfusilier_flare_mp.xml,0,0,1,0.25,4,1,2,0.0/0.0/0.0,150,OB,EX_WE
+Self Destruct Primary FX self_destruct_primary_mp.xml,640,75.294,1,0.375,10,4,8,150.0/150.0/150.0,45,OB,EX_WE
+Self Destruct Secondary FX self_destruct_secondary_mp.xml,80,64,1,0.5,4.5,1.5,2.75,25.0/25.0/25.0,20,OB,EX_WE
+stun grenade panzerfusilier_grenade.xml,80,64,1,0.15,3.5,0.875,2.625,25.0/25.0/25.0,20,OB,EX_WE
+Sturmtiger 380mm Rocket Launcher sturmtiger_rw_61_380mm_rocket_launcher.xml,640,12.995,1,0.3,10,2.5,7.5,1000.0/1000.0/1000.0,45,OB,EX_WE
+Walking Stuka Rockets (280mm) walking_stuka_rockets_mp.xml,200,800,1,0.05,8,2,6,0.0/0.0/0.0,1000,OB,EX_WE
+Walking Stuka Rockets (280mm) [Dummy] walking_stuka_rockets_nofire_mp.xml,0,0,1,0.05,0,0,0,0.0/0.0/0.0,160,OB,EX_WE
+37mm Stuka BK 37 stuka_37mm_cannon_right_mp.xml,120,53.452,1,0.05,2.5,0.625,1.875,180.0/170.0/160.0,225,OS,EX_WE
+37mm Stuka BK 37 stuka_37mm_cannon_left_superiority_mp.xml,120,50.74,1,0.05,2.5,0.625,1.875,180.0/170.0/160.0,225,OS,EX_WE
+37mm Stuka BK 37 stuka_37mm_cannon_right_superiority_mp.xml,120,50.74,1,0.05,2.5,0.625,1.875,180.0/170.0/160.0,225,OS,EX_WE
+37mm Stuka BK 37 stuka_37mm_cannon_left_mp.xml,120,53.452,1,0.05,2.5,0.625,1.875,180.0/170.0/160.0,225,OS,EX_WE
+Bundled StielGranate bk_2h_frangible_blinding_grenade_mp.xml,5,4,1,0.15,5,1.25,3.75,25.0/25.0/25.0,20,OS,EX_WE
+Bundled StielGranate panzer_grenadier_bundled_stielgranate_mp.xml,80,64,1,0.15,5,1.25,3.75,25.0/25.0/25.0,20,OS,EX_WE
+Bundled StielGranate panzer_grenadier_bundled_campaign_mp.xml,80,64,1,0.15,6,1.5,4.5,25.0/25.0/25.0,20,OS,EX_WE
+five hundred pound bomb stuka_500_lb_bomb_mp.xml,750,3000,1,0.05,15,3.75,7.5,1000.0/1000.0/1000.0,1000,OS,EX_WE
+Granatwerfer 34 81mm Counter Barrage grw34_81mm_mortar_halftrack_counter_barrage_mp.xml,80,19.753,1,0.05,4,1,3,35.0/35.0/35.0,106,OS,EX_WE
+Granatwerfer 34 81mm Mortar grw34_81mm_victor_target_mortar_mp.xml,80,11.388,1,0.05,4,1,3,35.0/35.0/35.0,160,OS,EX_WE
+Granatwerfer 34 81mm Mortar grw34_81mm_mortar_halftrack_barrage_mp.xml,80,18.079,1,0.05,4,1,3,35.0/35.0/35.0,106,OS,EX_WE
+Granatwerfer 34 81mm Mortar grw34_81mm_mortar_halftrack_mp.xml,80,18.079,1,0.05,4,1,3,35.0/35.0/35.0,80,OS,EX_WE
+Granatwerfer 34 81mm Mortar grw34_81mm_mortar_mp.xml,80,11.388,1,0.05,4,1,3,35.0/35.0/35.0,80,OS,EX_WE
+Granatwerfer 34 81mm Mortar grw34_81mm_mortar_halftrack_victor_target_mp.xml,80,18.079,1,0.05,4,1,3,35.0/35.0/35.0,160,OS,EX_WE
+Granatwerfer 34 81mm Mortar barrage grw34_81mm_mortar_barrage_mp.xml,80,18.824,1,0.05,4,1,3,35.0/35.0/35.0,106,OS,EX_WE
+Granatwerfer 34 81mm Mortar Counter Barrage grw34_81mm_mortar_counter_barrage_mp.xml,80,18.824,1,0.05,4,1,3,35.0/35.0/35.0,106,OS,EX_WE
+Granatwerfer 34 81mm Mortar (Smoke) grw34_81mm_smoke_mortar_halftrack_barrage_mp.xml,0,0,1,0.05,0,1.5,3,35.0/35.0/35.0,106,OS,EX_WE
+Granatwerfer 34 81mm Mortar (Smoke) grw34_81mm_mortar_team_smoke_mp.xml,0,0,1,0.05,0,1.5,3,35.0/35.0/35.0,106,OS,EX_WE
+Ig.18 7.5cm infantry gun howitzer_75mm_light_support_gun_mp.xml,90,22.222,1,0.05,5,1.5,3,75.0/75.0/75.0,250,OS,EX_WE
+Kar 98k Antitank Rifle Grenade grenadier_kar_98k_antitank_rifle_grenade_mp.xml,40,22.857,1,0.15,1,0.25,0.75,300.0/300.0/300.0,45,OS,EX_WE
+Kar 98k Rifle Grenade grenadier_kar_98k_rifle_grenade_mp.xml,80,24.615,1,0.15,3.5,0.875,2.625,25.0/25.0/25.0,30,OS,EX_WE
+le FH 18 10.5cm counter barrage howitzer_105mm_gun_counter_barrage_mp.xml,200,42.105,1,0.05,7.5,1.875,5.625,1000.0/1000.0/1000.0,250,OS,EX_WE
+le FH 18 10.5cm disabled main gun howitzer_105mm_disabled_gun_mp.xml,200,42.105,1,0.05,7.5,3,6,1000.0/1000.0/1000.0,250,OS,EX_WE
+le FH 18 10.5cm main gun howitzer_105mm_gun_mp.xml,160,33.684,1,0.05,7.5,1.875,5.625,1000.0/1000.0/1000.0,250,OS,EX_WE
+le FH 18 10.5cm main gun howitzer_105mm_gun_major_mp.xml,160,32.821,1,0.05,7.5,2.75,5.75,1000.0/1000.0/1000.0,250,OS,EX_WE
+le FH 18 10.5cm main gun V3 howitzer_105mm_gun_vet3_mp.xml,200,42.105,1,0.05,7.5,1.875,5.625,1000.0/1000.0/1000.0,332.5,OS,EX_WE
+le FH 18 10.5cm victor target howitzer_105mm_victor_target_gun_mp.xml,200,42.105,1,0.05,7.5,1.875,5.625,1000.0/1000.0/1000.0,500,OS,EX_WE
+MG_151_20mm_cannon stuka_mg_151_20mm_cannon_mp.xml,25,243.243,1,0.05,0,0.5,1,35.0/35.0/35.0,175,OS,EX_WE
+Mine Weapon axis_riegel_43_mine_mp.xml,320,196.923,1,1,5,1.5,2.5,1000.0/1000.0/1000.0,35,OS,EX_WE
+Mine Weapon axis_mine_anti_personnel_mp.xml,40,24.615,1,1,5,1.5,2.5,5.0/5.0/5.0,35,OS,EX_WE
+Mine Weapon axis_mine_mp.xml,400,246.154,1,1,5,1.5,2.5,1000.0/1000.0/1000.0,35,OS,EX_WE
+Panzerwerfer rockets panzerwerfer_rockets_nofire_mp.xml,0,0,1,0.05,4,1,3,50.0/50.0/50.0,160,OS,EX_WE
+Panzerwerfer rockets panzerwerfer_counter_barrage_rockets_mp.xml,80,320,1,0.1,6,1.5,4.5,50.0/50.0/50.0,120,OS,EX_WE
+Panzerwerfer rockets panzerwerfer_victor_target_rockets_mp.xml,80,320,1,0.1,6,1.5,4.5,50.0/50.0/50.0,240,OS,EX_WE
+Panzerwerfer rockets panzerwerfer_rockets_mp.xml,80,320,1,0.1,6,1.5,4.5,50.0/50.0/50.0,160,OS,EX_WE
+Satchel Charge (Throw) urban_assault_satchel_charge_mp.xml,340,194.286,1,0.15,6,1.5,4.5,1000.0/1000.0/1000.0,15,OS,EX_WE
+StielGranate assault_grenadier_stielgranate_mp.xml,40,18.286,1,0.15,4,1,3,25.0/25.0/25.0,20,OS,EX_WE
+stuka plane crash stuka_plane_crash_mp.xml,240,960,1,0.05,6,3.75,7.5,1000.0/1000.0/1000.0,1000,OS,EX_WE
+Stuke 50kg Smoke Bomb stuka_ab23_fragmentation_bomb_mp.xml,65,254.694,1,0.05,12,3,6,30.0/30.0/30.0,175,OS,EX_WE
+Stuke 50kg Smoke Bomb stuka_nc_50kg_smoke_bomb_mp.xml,0,0,1,0.05,0,0.5,1,35.0/35.0/35.0,175,OS,EX_WE
+Stuke 50kg Smoke Bomb officer_smoke_artillery_mp.xml,0,0,1,0.25,0,0.5,1,35.0/35.0/35.0,175,OS,EX_WE
+152mm ML-20 152mm_m-30_vet3_mp.xml,300,57.143,1,0.1,8,2,6,1000.0/1000.0/1000.0,332.5,SO,EX_WE
+152mm ML-20 152mm_m-30_barrage_mp.xml,120,22.857,1,0.1,8,2,6,1000.0/1000.0/1000.0,250,SO,EX_WE
+152mm ML-20 152mm_m-30_precision_mp.xml,300,57.143,1,0.25,8,2,6,1000.0/1000.0/1000.0,250,SO,EX_WE
+152mm ML-20 152mm_m-30_barrage_slow_mp.xml,300,58.537,1,0.1,9,3,6,1000.0/1000.0/1000.0,250,SO,EX_WE
+152mm ML-20 152mm_m-30_disabled_mp.xml,300,57.143,1,0.1,9,3,6,1000.0/1000.0/1000.0,250,SO,EX_WE
+152mm ML-20 HP1 152mm_m-30_victortarget_mp.xml,300,57.143,1,0.1,8,2,6,1000.0/1000.0/1000.0,500,SO,EX_WE
+152mm ML-20 HP1 152mm_m-30_mp.xml,300,57.143,1,0.1,8,2,6,1000.0/1000.0/1000.0,250,SO,EX_WE
+203mm B-4 Howitzer 203mm_b-4_mp.xml,220,17.391,1,0.1,9,2.25,4.5,75.0/75.0/75.0,500,SO,EX_WE
+203mm B-4 Howitzer 203mm_b-4_commander_precise_mp.xml,640,49.136,1,0.25,10,2.5,7.5,1000.0/1000.0/1000.0,250,SO,EX_WE
+203mm B-4 Howitzer out_of_control_explosion_weapon_mp.xml,110,440,1,0.25,10,2.25,4.5,75.0/75.0/75.0,0,SO,EX_WE
+203mm B-4 Howitzer 203mm_b-4_barrage_mp.xml,220,40,1,0.1,9,2.25,4.5,75.0/75.0/75.0,500,SO,EX_WE
+203mm B-4 Howitzer 203mm_b-4_commander_victortarget_mp.xml,640,49.136,1,0.1,10,2.5,7.5,1000.0/1000.0/1000.0,500,SO,EX_WE
+203mm B-4 Howitzer 203mm_b-4_commander_mp.xml,640,49.136,1,0.1,10,2.5,7.5,1000.0/1000.0/1000.0,250,SO,EX_WE
+203mm B-4 Howitzer 203mm_b-4_barrage_slow_mp.xml,220,40,1,0.1,9,2.25,4.5,75.0/75.0/75.0,500,SO,EX_WE
+Anti-Tank Grenade conscript_rpg_40_anti_tank_grenade_assault_mp.xml,80,36.571,1,0.25,0.5,0.125,0.25,100.0/100.0/100.0,50,SO,EX_WE
+Anti-Tank Grenade rpg_43_anti_tank_grenade_mp.xml,100,80,1,0.15,0.5,0.15,0.25,100.0/100.0/100.0,20,SO,EX_WE
+Artillery Propaganda Explosion off_map_propaganda_artillery_mp.xml,0,0,1,0.05,15,2.25,4.5,75.0/75.0/75.0,250,SO,EX_WE
+Demolition Charge engineer_demoliion_mp.xml,250,181.159,1,0.15,6,1.5,4.5,1000.0/1000.0/1000.0,35,SO,EX_WE
+HM_38 120mm Mortar hm_38_120mm_mortar_mp.xml,80,6.142,1,0.1,6,1.1,4.5,35.0/35.0/35.0,100,SO,EX_WE
+HM_38 120mm Mortar Barrage hm_38_120mm_mortar_barrage_slow_mp.xml,100,24.242,1,0.05,6,1.5,4.5,35.0/35.0/35.0,100,SO,EX_WE
+HM_38 120mm Mortar Barrage hm_38_120mm_mortar_barrage_mp.xml,80,9.712,1,0.1,6,1.1,4.5,35.0/35.0/35.0,100,SO,EX_WE
+HM_38 120mm Mortar Barrage hm_38_120mm_mortar_precision_barrage_mp.xml,100,30.769,1,0.25,6,1.25,3.75,35.0/35.0/35.0,100,SO,EX_WE
+HM_38 120mm Mortar Barrage hm_38_120mm_mortar_barrage_victortarget_mp.xml,100,12.14,1,0.05,6,1.5,4.5,35.0/35.0/35.0,100,SO,EX_WE
+HM_38 120mm Mortar Smoke hm_38_120mm_mortar_smoke_mp.xml,0,0,1,0.25,0,2.25,4.5,35.0/35.0/35.0,100,SO,EX_WE
+HM_38 120mm Mortar Smoke hm_38_120mm_mortar_flare_mp.xml,0,0,1,0.25,0,2.25,4.5,35.0/35.0/35.0,100,SO,EX_WE
+IL2 Flares flares_mp.xml,0,0,1,0.25,9,2.25,4.5,0.0/0.0/0.0,75,SO,EX_WE
+il-2 plane crash il_2_plane_crash_mp.xml,240,960,1,0.05,6,3.75,7.5,1000.0/1000.0/1000.0,1000,SO,EX_WE
+IL2 rockets il2_rockets_mp.xml,320,19.277,1,0.05,10,2.5,7.5,1000.0/1000.0/1000.0,1000,SO,EX_WE
+Kar 98k Rifle Grenade flare_mp.xml,0,0,1,0.25,4,1,2,0.0/0.0/0.0,150,SO,EX_WE
+Katyusha dummy weapon for UI katyusha_bm_13_16_rocket_no_fire_mp.xml,0,0,1,0.05,4,1,3,50.0/50.0/50.0,200,SO,EX_WE
+Katyusha rockets katyusha_bm_13_16_rocket_victortarget_mp.xml,80,91.429,1,0.1,6,1.5,4.5,50.0/50.0/50.0,400,SO,EX_WE
+Katyusha rockets katyusha_bm_13_16_rocket_mp.xml,80,91.429,1,0.1,6,1.5,4.5,50.0/50.0/50.0,200,SO,EX_WE
+Katyusha rockets percision katyusha_bm_13_16_precision_rocket_mp.xml,80,284.444,1,0.1,6,1.5,4.5,50.0/50.0/50.0,150,SO,EX_WE
+Katyusha rockets percision katyusha_bm_13_16_creeping_rockets_mp.xml,80,284.444,1,0.1,6,1.5,4.5,50.0/50.0/50.0,150,SO,EX_WE
+MG42 Heavy Machine Gun Dummy hm_38_120mm_mortar_dummy_mp.xml,1,0.107,1,0.05,6,1.5,4.5,35.0/35.0/35.0,100,SO,EX_WE
+Mine Weapon fieldcraft_mine_mp.xml,0,0,1,0.15,1.5,0.375,1.125,3.0/3.0/3.0,35,SO,EX_WE
+Mine Weapon tm-35_mine_mp.xml,200,123.077,1,1,5,1.5,2.5,1000.0/1000.0/1000.0,35,SO,EX_WE
+pm41_82mm Mortar pm41_82mm_mortar_mp.xml,80,7.111,1,0.05,4,1,3,35.0/35.0/35.0,80,SO,EX_WE
+PM41_82mm Mortar Barrage pm41_82mm_mortar_precision_barrage_mp.xml,80,16.842,1,0.25,4,1,3,35.0/35.0/35.0,80,SO,EX_WE
+PM41_82mm Mortar Barrage pm41_82mm_mortar_barrage_victortarget_mp.xml,80,11.511,1,0.05,4,1,3,35.0/35.0/35.0,212,SO,EX_WE
+PM41_82mm Mortar Barrage pm41_82mm_mortar_flare_mp.xml,1,0.211,1,0.25,0,1,3,35.0/35.0/35.0,80,SO,EX_WE
+PM41_82mm Mortar Barrage pm41_82mm_mortar_barrage_mp.xml,80,11.511,1,0.05,4,1,3,35.0/35.0/35.0,106,SO,EX_WE
+PM41_82mm Mortar Barrage pm41_82mm_mortar_barrage_slow_mp.xml,80,16.842,1,0.05,4,1,3,35.0/35.0/35.0,80,SO,EX_WE
+RG_42 rg_42_mp.xml,80,64,1,0.15,4,1,3,25.0/25.0/25.0,20,SO,EX_WE
+RGD_33 penal_troop_pinning_rg_42_mp.xml,3,2.4,1,0.15,6,1.5,4.5,25.0/25.0/25.0,20,SO,EX_WE
+RGD_33 rgd_1_smoke_mp.xml,0,0,1,0.25,0,1.5,3,0.0/0.0/0.0,20,SO,EX_WE
+RGD_33_Sleeved guard_troop_rgd_33_sleeved_mp.xml,80,71.111,1,0.15,4.5,1.125,3.375,25.0/25.0/25.0,20,SO,EX_WE
+Satchel Charge (Throw) penal_troop_satchel_charge_mp.xml,340,194.286,1,0.15,6,1.5,4.5,1000.0/1000.0/1000.0,10,SO,EX_WE
+Smoke Mortar Barrage pm41_82mm_mortar_smoke_mp.xml,0,0,1,0.25,0,1.5,3,35.0/35.0/35.0,106,SO,EX_WE
+VYa-23 23mm Autocannon il2_vya-23_autocannon_advanced_mp.xml,20,233.514,1,0.2,0,0.25,0.75,40.0/30.0/20.0,225,SO,EX_WE
+VYa-23 23mm Autocannon il2_vya-23_autocannon_mp.xml,8,77.838,1,0.05,0,0.5,1,42.5/42.5/42.5,225,SO,EX_WE
+zis-3_76mm_HE zis3_at_gun_he_shots_mp.xml,80,23.704,1,0.05,6,1.5,4.5,60.0/60.0/60.0,80,SO,EX_WE
+ZIS-3SH 76mm Gun barrage MP su76_zis-3sh_gun_barrage_mp.xml,120,32.542,1,0.05,5,1,4,50.0/50.0/50.0,90,SO,EX_WE
+152mm ML-20 155mm_artillery.xml,120,22.857,1,0.05,8,2,6,1000.0/1000.0/1000.0,250,US,EX_WE
+75mm M3 Howitzer Auto-Fire (HMC) m8a1_hmc_m3_75mm_direct_mp.xml,100,21.39,1,0.05,4,1,4,40.0/40.0/40.0,60,US,EX_WE
+75mm M3 Howitzer Barrage (HMC) m8a1_hmc_m3_75mm_victor_target_mp.xml,120,25.668,1,0.05,4,1,3,75.0/75.0/75.0,500,US,EX_WE
+75mm M3 Howitzer Barrage (HMC) m8a1_hmc_m3_75mm_mp.xml,100,21.39,1,0.05,4,1,4,75.0/75.0/75.0,80,US,EX_WE
+75mm M3 Howitzer Dummy (HMC) m8a1_hmc_m3_75mm_dummy_mp.xml,0,0,1,0.05,0,1.25,2.5,50.0/50.0/50.0,100,US,EX_WE
+75mm Mortar Smoke (HMC) m8a1_hmc_smoke_mp.xml,0,0,1,0.05,0,2.25,4.5,0.0/0.0/0.0,100,US,EX_WE
+75mm Pack Howitzer [Auto-Attack] pack_howitzer_75mm_auto_attack_mp.xml,80,8.29,1,0.1,6,1.5,4.5,85.0/85.0/85.0,80,US,EX_WE
+75mm Pack Howitzer [Barrage] pack_howitzer_75mm_barrage_mp.xml,80,14.159,1,0.1,6,1.5,4.5,85.0/85.0/85.0,160,US,EX_WE
+75mm Pack Howitzer [Barrage] pack_howitzer_75mm_barrage_victor_target_mp.xml,80,14.159,1,0.1,6,1.5,4.5,85.0/85.0/85.0,500,US,EX_WE
+75mm Pack Howitzer [HEAT Barrage] pack_howitzer_75mm_barrage_heat_mp.xml,160,28.319,1,0.05,6,1.5,4.5,300.0/290.0/280.0,160,US,EX_WE
+75mm Pack Howitzer [HEAT Shot] pack_howitzer_75mm_heat_mp.xml,160,24.427,1,0.05,6,1.5,4.5,300.0/290.0/280.0,80,US,EX_WE
+75mm Pack Howitzer [Vet 3] pack_howitzer_75mm_vet3_mp.xml,80,13.913,1,0.1,6,1.5,4.5,85.0/85.0/85.0,335,US,EX_WE
+75mm Pack Howitzer [White Phosphorous Barrage] rifle_company_white_phosphorous_mp.xml,3,0.531,1,0.15,8,2,6,35.0/35.0/35.0,160,US,EX_WE
+75mm Pack Howitzer [White Phosphorous Barrage] pack_howitzer_75mm_white_phosphorous_mp.xml,20,3.54,1,0.15,8,2,6,35.0/35.0/35.0,160,US,EX_WE
+75mm Pack Howitzer [White Phosphorous DOT] pack_howitzer_75mm_white_phosphorous_dot_mp.xml,0,0,1,0.25,0,1,2,0.0/0.0/0.0,70,US,EX_WE
+81mm Mortar - M57 WP (White Phosphorous) Round m1_81mm_mortar_white_phosphorous_barrage_mp.xml,10,1.77,1,0.25,6,1.5,3,35.0/35.0/35.0,106,US,EX_WE
+81mm Mortar - M57 WP (White Phosphorous) Round [DOT] m1_81mm_mortar_white_phosphorous_barrage_dot_mp.xml,0,0,1,0.25,0,1,2,0.0/0.0/0.0,70,US,EX_WE
+Demolition Charge paratrooper_timed_demo_charge.xml,312,226.087,1,0.15,8,2,6,1000.0/1000.0/1000.0,8,US,EX_WE
+Demolition Charge aef_assault_engineer_demoliion.xml,250,181.159,1,0.25,8,2,6,1000.0/1000.0/1000.0,35,US,EX_WE
+Fire Artillery Weapon sp_250mm_off_map_artillery_weapon.xml,320,73.143,1,0.15,10,2.5,7.5,2.0/2.0/2.0,106,US,EX_WE
+HM_38 120mm Mortar Smoke [M7B1 Priest] m7b1_priest_m89_smoke_mp.xml,0,0,1,0.25,0,2.25,4.5,35.0/35.0/35.0,180,US,EX_WE
+IL2 rockets p47_rockets.xml,80,19.62,1,0.05,6,1.5,4.5,420.0/380.0/340.0,200,US,EX_WE
+Kar 98k Rifle Grenade riflemen_flare.xml,0,0,1,0.25,4,1,2,0.0/0.0/0.0,150,US,EX_WE
+M17 Rifle Grenade rear_echelon_m17_rifle_grenade_mp.xml,40,4.848,1,0.15,4,1,3,10.0/10.0/10.0,40,US,EX_WE
+M1 81mm Mortar m1_81mm_mortar_barrage_victor_target_mp.xml,80,14.159,1,0.05,4,1,3,35.0/35.0/35.0,500,US,EX_WE
+M1 81mm Mortar m1_81mm_mortar_barrage_mp.xml,80,14.159,1,0.05,4,1,3,35.0/35.0/35.0,106,US,EX_WE
+M1 81mm Mortar m1_81mm_mortar_mp.xml,80,9.496,1,0.05,4,1,3,35.0/35.0/35.0,80,US,EX_WE
+M1 81mm Mortar Counter Barrage m1_81mm_mortar_counter_barrage_mp.xml,80,12.403,1,0.05,4,1,3,20.0/20.0/20.0,80,US,EX_WE
+M1 81mm Mortar (Smoke) m1_81mm_mortar_team_smoke_mp.xml,0,0,1,0.25,0,1.5,3,35.0/35.0/35.0,106,US,EX_WE
+M2 60mm Mortar m2_60mm_mortar_mp.xml,80,9.222,1,0.05,4,1,3,20.0/20.0/20.0,80,US,EX_WE
+M2 60mm Mortar Barrage m2_60mm_mortar_barrage_mp.xml,80,15.842,1,0.05,4,1,3,20.0/20.0/20.0,106,US,EX_WE
+M2 60mm Mortar Counter Barrage m2_60mm_mortar_counter_barrage_mp.xml,80,15.842,1,0.05,4,1,3,20.0/20.0/20.0,80,US,EX_WE
+M2 60mm Mortar (Smoke) m2_60mm_mortar_team_smoke_mp.xml,0,0,1,0.05,0,1.365,2.625,20.0/20.0/20.0,106,US,EX_WE
+M2A1 105mm Howitzer [M7B1 Priest] m7b1_priest_m2a1_105mm_mp.xml,200,34.513,1,0.1,7,2,6,1000.0/1000.0/1000.0,180,US,EX_WE
+M2A1 105mm Howitzer [M7B1 Priest] m7b1_priest_m2a1_105mm_victor_target_mp.xml,200,34.513,1,0.1,7,2,6,1000.0/1000.0/1000.0,500,US,EX_WE
+M2A1 105mm Howitzer [M7B1 Priest] m7b1_priest_m2a1_105mm_creeping_barrage_mp.xml,160,28.855,1,0.05,6,1.5,4.5,1000.0/1000.0/1000.0,180,US,EX_WE
+M2A1 105mm Howitzer [M7B1 Priest] major_offmap_105mm_mp.xml,160,41.29,1,0.05,6,1.5,4.5,1000.0/1000.0/1000.0,250,US,EX_WE
+M2A1 105mm Howitzer [M7B1 Priest] [Dummy] m7b1_priest_m2a1_105mm_dummy_mp.xml,0,0,1,0.05,6,1.5,4.5,0.0/0.0/0.0,180,US,EX_WE
+M31 Anti Tank Rifle Grenade rifleman_at_rifle_grenade.xml,100,80,1,0.15,1,0.25,0.75,100.0/100.0/100.0,30,US,EX_WE
+M56 Heavy HE - Short Delay [M21] m1_81mm_mortar_short_delay_barrage_mp.xml,160,28.319,1,0.05,4,1,3,105.0/105.0/105.0,106,US,EX_WE
+M6 Anti-Tank Mine m20_m6_mine_mp.xml,400,246.154,1,1,5,1.5,2.5,1000.0/1000.0/1000.0,35,US,EX_WE
+M7 Light AT Mine Weapon aef_mine_mp.xml,0,0,1,1,5,1.5,2.5,1000.0/1000.0/1000.0,35,US,EX_WE
+Mk II Frag Grenade mk2_mp.xml,80,71.492,1,0.15,4,1,3,25.0/25.0/25.0,20,US,EX_WE
+Mk II Frag Grenade (Charged) mk2_paratrooper_mp.xml,80,71.492,1,0.15,4,1,3,25.0/25.0/25.0,20,US,EX_WE
+railway artillery howitzer_240mm.xml,320,1280,1,0.05,12,3,9,1000.0/1000.0/1000.0,1000,US,EX_WE
+RGD_33 m23_smoke_mp.xml,0,0,1,0.15,0,0,0,0.0/0.0/0.0,40,US,EX_WE
+RGD_33 m23_smoke_at_mp.xml,0,0,1,0.15,6,1.5,4.5,0.0/0.0/0.0,40,US,EX_WE
+Sherman turret smoke launcher sherman_m3_2inch_mortar_smoke_mp.xml,0,0,1,0.25,0,2.25,4.5,35.0/35.0/35.0,55,US,EX_WE
+© TensaiOni 2013 - 2015,,,,,,,,,,,
+Patch version: 23 June 2015,,,,,,,,,,,
